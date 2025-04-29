@@ -2,7 +2,6 @@ package NumberGuesingGameInjava;
 import java.util.Scanner;
 
 public class GuessingNumGame {
-    // Java Program to demonstrates the Number guessing game 
     
     public static void guessingNumberGame()
     {
